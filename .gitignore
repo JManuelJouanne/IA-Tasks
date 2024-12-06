@@ -1,0 +1,49 @@
+# Archivos generados automáticamente
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+env/
+venv/
+*.venv/
+
+# Archivos de configuración y de entorno
+*.env
+.env.*
+*.ini
+*.cfg
+
+# Archivos de logs
+*.log
+logs/
+
+# Archivos relacionados con Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dependencias
+pip-log.txt
+pip-delete-this-directory.txt
+poetry.lock
+Pipfile.lock
+
+# Archivos de bases de datos locales
+*.sqlite3
+*.db
+
+# Archivos de compilación
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Archivos de IDEs y editores
+.vscode/
+.idea/
+*.swp
+
+# Docker y contenedores
+.dockerignore
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
